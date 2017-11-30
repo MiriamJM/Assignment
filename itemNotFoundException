@@ -1,0 +1,19 @@
+import java.lang.Exception;
+/**
+ * ItemNotFoundException class extending exception java class.
+ * 
+ * @author Miriam Mnyuku 
+ * @date August 5, 2017
+ */
+public class ItemNotFoundException extends Exception
+{
+    public ItemNotFoundException()
+    {
+        super("Item not Found!");
+    }
+
+    public ItemNotFoundException(String message)
+    {
+        super(message);
+    }
+}
