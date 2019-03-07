@@ -1,5 +1,6 @@
 # Recursion
 PROJECT TITLE: Recursion
+
 PURPOSE OF PROJECT: Simplify complex iterative code
 VERSION or DATE: April 4, 2017
 HOW TO START THIS PROJECT: Create an array of words and save them in notepad
